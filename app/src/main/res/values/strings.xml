@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="attempts">Attempts</string>
+    <string name="login_message">you have logged into the application</string>
+</resources>
